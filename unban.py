@@ -11,11 +11,11 @@ from telethon.tl.types import (
 )
 
 # ================= CONFIGURATION =================
-API_ID = 12345678                  # Apna API_ID dalein
-API_HASH = "your_api_hash_here"    # Apna API_HASH dalein
-BOT_TOKEN = "your_bot_token_here"  # @BotFather se liya hua Bot Token
+API_ID = 20137104                  # Apna API_ID dalein
+API_HASH = "1209338eedc55ab701dd2e9d353c05ad"    # Apna API_HASH dalein
+BOT_TOKEN = "9179266114:AAEv7ldjOlWMi6WlIjEDhL-_Rma_BknohPY"  # @BotFather se liya hua Bot Token
 
-OWNER_IDS = [8177972152]           # Sirf Authorized Owners
+OWNER_IDS = [8244493463]           # Sirf Authorized Owners
 WHITELIST_FILE = "whitelist.json"  # Permanent banned users ko bachane ke liye file
 # =================================================
 
